@@ -1,4 +1,3 @@
 # cv
 
-This repository contains files related to my resume built in various technologies. 
-It's a WIP repository.
+This repository contains files related to my resume built using only HTML.
